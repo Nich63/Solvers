@@ -1,0 +1,10 @@
+# Generated output from the standalone MATLAB examples
+**/output/
+*.asv
+
+# Keep the current verification scripts and reports local
+/verify_dust_devil_examples.m
+/Boundary_Layer_Implicit_Marching/verify_boundary_layer.m
+/Bragg_Hawthorne_Picard/verify_bragg_hawthorne.m
+/Similarity_BVP/verify_similarity_bvp.m
+/VALIDATION.md

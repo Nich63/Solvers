@@ -1,0 +1,50 @@
+[
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/build_global_grid.m",
+    "sha256": "6ED587AD35100F5510DD1CF2F51B696B8901EE5479E34CE755FFC864C42DE317"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/global_convection_treatment.m",
+    "sha256": "3DCE2059921A70B2B8BD541197014FE574064DB6BCDD179E84F1FC47B066A0CD"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/global_station_jacobian.m",
+    "sha256": "0CC440436438BB0F5A06BB813AC815C56D70965C84EAE64302A07EBBC004C695"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/global_station_residual.m",
+    "sha256": "52947AC35332CC8382BDA40D7CC33939522D7CD41FF151DDDF671F39E647136F"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/map_rim_to_global_station.m",
+    "sha256": "CD30BDA30789C813C5FA33FDF1D5533AF30FEA7FAE373B90A2FA6253E2CAA53C"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/march_one_station.m",
+    "sha256": "5B2D418981F269B9CD9A87D2F63787F42D54925E1FC6F63B52056287F2FA3354"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/march_station_with_bisection.m",
+    "sha256": "652061273FADA47EA350CAE9E416BCEAF078127695C1676D1DA2902E9E6366C4"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/solve_global_boundary_layer.m",
+    "sha256": "6DA1E896E1F1F56C6B9EAB6BFCC4CCFF32ADA85E63785ED0DC4E5851EAE56ED2"
+  },
+  {
+    "file": "Boundary_Layer_Implicit_Marching/private/solve_rim_bvp.m",
+    "sha256": "97017EC256CEFF0AA5623039F68A0E82F18D3F3280EC57B4D3C996CB2DE98609"
+  },
+  {
+    "file": "Similarity_BVP/private/solve_rim_bvp.m",
+    "sha256": "97017EC256CEFF0AA5623039F68A0E82F18D3F3280EC57B4D3C996CB2DE98609"
+  },
+  {
+    "file": "Bragg_Hawthorne_Picard/private/assemble_bh_system.m",
+    "sha256": "09A8E88D4938D08BFB0ECAF213024BEA209D97C2C1040AC960126663C619A2EF"
+  },
+  {
+    "file": "Bragg_Hawthorne_Picard/private/build_collision_grid.m",
+    "sha256": "469C77E7C46C892BD35FCC2B01FCAAB050CA77D39B862F93945FE4BB95382994"
+  }
+]
